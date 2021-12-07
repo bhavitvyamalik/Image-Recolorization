@@ -100,7 +100,6 @@ def main():
     L1 = nn.L1Loss()
 
     # dataset
-    # data_root = '/home/users/u5612799/DATA/Spongebob/'
     data_root = args.path
     dataset = args.dataset
     if dataset == 'sc2':
