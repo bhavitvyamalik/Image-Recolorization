@@ -53,19 +53,14 @@ Image samples created during validation will be saved in `img/`; and the model w
 Due to paucity of computation, we could only train upto 100 epochs. Below are the attached outputs for Flowers and Spongebob datasets (each set contains 3 images Left- Input image in greyscale, Middle- Original image, Right- Output image):
 
 OxFlower Dataset
-<figure>
-    <p float="left">
-        <img src="asset/flower_0_epoch.png" width="30%" height="30%" />
-        <img src="asset/flower_50_epoch.png" width="30%" height="30%" />
-        <img src="asset/flower_100_epoch.png" width="30%" height="30%" />
-    </p>
-    <figcaption align = "center"><b>Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs</b></figcaption>
-</figure>
+<p float="left">
+    <img src="asset/flower_0_epoch.png" width="30%" height="30%" />
+    <img src="asset/flower_50_epoch.png" width="30%" height="30%" />
+    <img src="asset/flower_100_epoch.png" width="30%" height="30%" />
+</p>
 <p align = "center">
 Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs
 </p>
-
-<!-- <p>Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs</p> -->
 
 SpongeBob Dataset
 <p float="left">
@@ -73,9 +68,6 @@ SpongeBob Dataset
     <img src="asset/bob_50_epoch.png" width="30%" height="30%" />
     <img src="asset/bob_100_epoch.png" width="30%" height="30%" />
 </p>
-<p>Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs</p>
-<!-- <img src="asset/flower_0_epoch.png" width="25%" height="25%" />
-
-<!-- <img src="asset/flower_50_epoch.png" width="25%" height="25%" />
-
-<img src="asset/flower_100_epoch.png" width="25%" height="25%" /> -->
+<p align = "center">
+Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs
+</p>
