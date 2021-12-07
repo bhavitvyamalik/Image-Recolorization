@@ -53,12 +53,15 @@ Image samples created during validation will be saved in `img/`; and the model w
 Due to paucity of computation, we could only train upto 100 epochs. Below are the attached outputs for Flowers and Spongebob datasets (each set contains 3 images Left- Input image in greyscale, Middle- Original image, Right- Output image):
 
 OxFlower Dataset
-<p float="left">
-    <img src="asset/flower_0_epoch.png" width="30%" height="30%" />
-    <img src="asset/flower_50_epoch.png" width="30%" height="30%" />
-    <img src="asset/flower_100_epoch.png" width="30%" height="30%" />
-</p>
-<p>Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs</p>
+<figure>
+    <p float="left">
+        <img src="asset/flower_0_epoch.png" width="30%" height="30%" />
+        <img src="asset/flower_50_epoch.png" width="30%" height="30%" />
+        <img src="asset/flower_100_epoch.png" width="30%" height="30%" />
+    </p>
+    <figcaption align = "center"><b>Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs</b></figcaption>
+</figure>
+<!-- <p>Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs</p> -->
 
 SpongeBob Dataset
 <p float="left">
