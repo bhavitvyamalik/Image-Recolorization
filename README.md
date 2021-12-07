@@ -61,6 +61,10 @@ OxFlower Dataset
     </p>
     <figcaption align = "center"><b>Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs</b></figcaption>
 </figure>
+<p align = "center">
+Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs
+</p>
+
 <!-- <p>Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs</p> -->
 
 SpongeBob Dataset
