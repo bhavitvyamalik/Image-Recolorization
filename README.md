@@ -50,13 +50,14 @@ Image samples created during validation will be saved in `img/`; and the model w
 
 ## Results
 
-Due to paucity of computation, we could only train upto 100 epochs. Below are the attached outputs for Flowers and Spongebob datasets:
+Due to paucity of computation, we could only train upto 100 epochs. Below are the attached outputs for Flowers and Spongebob datasets (each set contains 3 images Left- Input image in greyscale, Middle- Original image, Right- Output image):
 
 <p float="left">
-    <img src="asset/flower_0_epoch.png" width="25%" height="25%" />
-    <img src="asset/flower_50_epoch.png" width="25%" height="25%" />
-    <img src="asset/flower_100_epoch.png" width="25%" height="25%" />
+    <img src="asset/flower_0_epoch.png" width="40%" height="40%" />
+    <img src="asset/flower_50_epoch.png" width="40%" height="40%" />
+    <img src="asset/flower_100_epoch.png" width="40%" height="40%" />
 </p>
+Left- Results at 0 epoch, Middle- Results at 50 epochs, Right- Results at 100 epochs
 <!-- <img src="asset/flower_0_epoch.png" width="25%" height="25%" />
 
 <!-- <img src="asset/flower_50_epoch.png" width="25%" height="25%" />
